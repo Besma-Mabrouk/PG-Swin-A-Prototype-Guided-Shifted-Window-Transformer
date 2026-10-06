@@ -1,0 +1,7 @@
+klass,method,n,dice,hd95,assd
+anterior,baseline,10,0.8948 +- 0.0019,1.068,0.1858
+anterior,swin_bottleneck,10,0.8968 +- 0.0028,1.070,0.1825
+anterior,pgswin_full,10,0.8973 +- 0.0019,1.073,0.1807
+posterior,baseline,10,0.8801 +- 0.0017,1.060,0.1871
+posterior,swin_bottleneck,10,0.8816 +- 0.0023,1.058,0.1855
+posterior,pgswin_full,10,0.8828 +- 0.0019,1.056,0.1819
